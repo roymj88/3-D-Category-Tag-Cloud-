@@ -37,5 +37,3 @@ Ps : Since it uses HTML5 canvas element, it has issues with IE browsers below ve
 Thanks
 
 Roy M J
-www.roymj.co.in
-www.blog.roymj.co.in
